@@ -1,7 +1,7 @@
 - 👋 Hallo, I'm Shreyank
 - 🌱 I’m currently learning python for data science and machine learning
 - 💞️ I’m looking to collaborate on machine learning and AI projects
-- 📫 How to reach me - ??
+- 📫 How to reach me - shreyankger@gmail.com
 - 😄 Pronouns: He/him
 
 
